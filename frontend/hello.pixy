@@ -1,0 +1,3 @@
+component Hello
+	h1 Hello Pixy
+	p We're running in WASM now.
